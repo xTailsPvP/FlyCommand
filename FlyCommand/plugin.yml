@@ -1,0 +1,8 @@
+name: FlyCommand
+author: xTailsPvP
+version: 1.0
+main: de.tails.flycommand.main.FlyCommand
+api-version: 1.8
+
+commands:
+   fly:
